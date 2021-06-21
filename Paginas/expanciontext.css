@@ -1,0 +1,36 @@
+.text1{
+    color: white;
+    font-size: 14px;
+    line-height: 50px
+    margin-right: 5%;
+    margin-left: 200px;
+}
+
+.img{
+    border-width: 3px;
+    border-radius:20px;
+    width: 300px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+    
+    
+
+}
+.text2{
+    color: white;
+    font-size: 14px;
+    line-height: 50px
+    margin-left: 100px;
+    margin-right: 180px;
+
+
+}
+.img2{
+    border-width: 3px;
+    border-radius:20px;
+    width: 300px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 8px;
+}
